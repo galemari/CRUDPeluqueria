@@ -1,2 +1,2 @@
-# CRUDPeluqueria
-Proyecto backend java
+# Mascotas
+proyecto final
